@@ -3,4 +3,5 @@ Resolsi
 - menyelesaikan dasar JAVA
 - Cumlaude
 - mengambil beberapa SP 
-- menyelesaikan VB
+- menyelesaikan VB.NET
+- Android Studio
