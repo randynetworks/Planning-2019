@@ -2,3 +2,5 @@ Resolsi
 - menyelesaikan pembelajaran C++
 - menyelesaikan dasar JAVA
 - Cumlaude
+- mengambil beberapa SP 
+- menyelesaikan VB
