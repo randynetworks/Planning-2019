@@ -4,3 +4,4 @@ Resolsi
 - Cumlaude
 - mengambil beberapa SP 
 - menyelesaikan VB
+- Project C++
